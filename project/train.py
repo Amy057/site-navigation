@@ -8,7 +8,7 @@ from global_annos import *
 from train_def import *
 
 
-from EMC-UNet import UNet
+from model import UNet
 import time
 import torch.utils.data
 import torch.optim as optim
